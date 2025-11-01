@@ -7,7 +7,7 @@
     "jquery": "3.4.0",
     "lodash": "4.17.13",
     "plotly.js": "1.36.1",
-    "popper.js": "1.14.3",
+    "popper.js": "1.16.1",
     "typeahead.js": "0.11.1"
   },
   "devDependencies": {
